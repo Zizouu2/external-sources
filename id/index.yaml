@@ -70,7 +70,7 @@ sources:
     language: "id"
   - id: "voratoon"
     name: "VoraToon"
-    version: "1.0.3"
+    version: "1.0.4"
     url: "https://raw.githubusercontent.com/Zizouu2/external-sources/refs/heads/Tes/id/voratoon.lua"
     icon: "https://raw.githubusercontent.com/Zizouu2/external-sources/refs/heads/Tes/icons/voratoon.webp"
     language: "id"
